@@ -1,4 +1,5 @@
 # camera-web-app
+A web camera with basic features that is going to become a full-fledged camera 
 
 ## Project setup
 ```
