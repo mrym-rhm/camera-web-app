@@ -3,10 +3,10 @@
 </template>
 
 <script>
-import Camera from '@/components/Camera';
+import Camera from "@/components/Camera";
 
 export default {
-  name: 'App',
+  name: "App",
   components: {
     Camera,
   },
